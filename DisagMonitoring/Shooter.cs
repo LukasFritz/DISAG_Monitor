@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DisagMonitoring
 {
-    class Shooter
+    public class Shooter
     {
         public Shooter()
         {
@@ -18,8 +18,8 @@ namespace DisagMonitoring
         public int Birthyear { get; set; }
         public string InternalID { get; set; }
         public string Identification { get; set; }
-        public Classes.Team Team { get; set; }
-        public Classes.Club Club { get; set; }
+        public Team Team { get; set; }
+        public Club Club { get; set; }
         public Guid UUID { get; set; }
 
 

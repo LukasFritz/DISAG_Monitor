@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DisagMonitoring
 {
-    class Shot
+    public class Shot
     {
         public enum tlColors { off, red, green};
         public enum src { OpticScore, RedDot}
@@ -42,7 +42,7 @@ namespace DisagMonitoring
         /// <summary>
         /// Schütze siehe Klasse Shooter
         /// </summary>
-        public Classes.Shooter Shooter { get; set; }
+        public Shooter Shooter { get; set; }
         /// <summary>
         /// Scheibenart siehe Klasse DiscType
         /// </summary>
@@ -69,7 +69,7 @@ namespace DisagMonitoring
         public bool IsDummy { get; set; }
         public bool IsInnerten { get; set; }
         public bool IsShootoff { get; set; }
-        public Classes.MenuItem MenuItem { get; set; }
+        public MenuItem MenuItem { get; set; }
         public string Remark { get; set; }
         public Guid UUID { get; set; }
 

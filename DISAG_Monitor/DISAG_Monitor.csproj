@@ -56,5 +56,11 @@
   <ItemGroup>
     <Folder Include="Classes\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DisagMonitoring\DisagMonitoring.csproj">
+      <Project>{01d1d0b1-5103-449f-a510-96cd84b4b1d2}</Project>
+      <Name>DisagMonitoring</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

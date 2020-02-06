@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DisagMonitoring
 {
-    class Team
+    public class Team
     {
         public Team()
         {

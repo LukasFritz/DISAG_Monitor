@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DisagMonitoring
 {
-    class Series
+    public class Series
     {
         public Series()
         {
