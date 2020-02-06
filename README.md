@@ -1,5 +1,5 @@
 # DISAG_Monitor
-Nutzung der JSON Schnitstelle des Opticscore Servers von DISAG (www.disag.de)
+Nutzung der JSON Schnittstelle des Opticscore Servers von DISAG (www.disag.de)
 
 
 Dokumentation der DISAG JSON Liveschnittstelle aus dem Meisterschützen Forum (www.meisterschuetzen.org)
