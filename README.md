@@ -14,5 +14,5 @@ Läuft das Monitoring tool so wird bei jedem Ereignis des Typs Shot eine Ausgabe
 >> Gerda hat auf Stand 1 eine 9,1 geschossen.
 ```
 
-![GitHub Logo](/Dokumentation/console.png)
+![GitHub Logo](/Dokumentation/console.PNG)
 Format: ![Beispiel Konsolen Ausgabe](url)
