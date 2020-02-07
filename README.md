@@ -15,4 +15,3 @@ Läuft das Monitoring tool so wird bei jedem Ereignis des Typs Shot eine Ausgabe
 ```
 
 ![GitHub Logo](/Dokumentation/console.PNG)
-![Beispiel Konsolen Ausgabe]
