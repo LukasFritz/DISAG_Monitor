@@ -33,7 +33,7 @@ namespace DISAG_Monitor
                 string decValue = Message.GetPropertyValue(m, "Objects.DecValue").ToString();
                 string str = $"{name} hat auf Stand {range} eine {decValue} geschossen.";
 
-                Console.WriteLine(Message.GetPropertyValue(m, "Objects.Range"));
+                Console.WriteLine(str);
             }
         }
     }
