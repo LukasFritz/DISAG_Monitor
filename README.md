@@ -10,7 +10,9 @@ https://meisterschuetzen.org/forum/thread/8142-disag-opticscore-json-live-was-is
 
 Die JSON Schnittstelle muss in den Opticscore Server Einstellungen aktiviert werden.
 Läuft das Monitoring tool so wird bei jedem Ereignis des Typs Shot eine Ausgabe gegeben:
->>: Gerda hat auf Stand 1 eine 9,1 geschossen.
+```
+>> Gerda hat auf Stand 1 eine 9,1 geschossen.
+```
 
 ![GitHub Logo](/Dokumentation/console.png)
 Format: ![Beispiel Konsolen Ausgabe](url)
