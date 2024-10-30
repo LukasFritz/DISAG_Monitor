@@ -6,7 +6,7 @@ Dokumentation der DISAG JSON Liveschnittstelle aus dem Meisterschützen Forum (w
 https://meisterschuetzen.org/forum/thread/8142-disag-opticscore-json-live-was-ist-das/?postID=94144#post94144
 
 
-## How2 - Wie benutze ich das ganze?
+## How2 - Wie benutze ich das Ganze?
 
 Die JSON Schnittstelle muss in den Opticscore Server Einstellungen aktiviert werden.
 Läuft das Monitoring tool so wird bei jedem Ereignis des Typs Shot eine Ausgabe gegeben:
